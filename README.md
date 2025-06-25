@@ -57,10 +57,10 @@ JWT_SECRET=<Your JWT Secret>
    npm install
 
 ### Technologies Used
-Frontend: React, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JSON Web Tokens (JWT)
-Deployment: Docker, AWS/GCP/Heroku
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JSON Web Tokens (JWT)
+- Deployment: Docker, AWS/GCP/Heroku
 
 
